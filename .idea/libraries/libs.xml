@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="libs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Assets/Plugins/Android/ChartboostSDK/libs/chartboost_unity_android_bridge.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Assets/Plugins/Android/ChartboostSDK/libs/chartboost.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
